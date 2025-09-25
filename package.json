@@ -1,6 +1,6 @@
 {
   "name": "node-sandbox-runner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spawn a Node child process with a preload sandbox that blocks child_process",
   "main": "parent.js",
   "bin": {

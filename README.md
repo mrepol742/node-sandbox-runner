@@ -24,11 +24,17 @@ Clone the repo or download the source, then run:
 npm install -g .
 ```
 
+or just install it from npm
+
+```sh
+npm install node-sandbox-runner -g
+```
+
 ## Run
 
 ```sh
-node-sandbox-runner your-node-program.js
+node-sandbox-runner ./your-node-program.js
 # i know its too longgggg
 # thats why i made a shortcut instead
-nsr your-node-program.js
+nsr ./your-node-program.js
 ```
